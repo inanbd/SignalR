@@ -1,0 +1,47 @@
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\ApplicationInsights.config
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\csc.exe
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\vbc.exe
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\VBCSCompiler.exe
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\SignalR4 (hitCounter).dll.config
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\SignalR4 (hitCounter).dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\SignalR4 (hitCounter).pdb
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.Web.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.ApplicationInsights.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.Security.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Newtonsoft.Json.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Owin.dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.Web.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.ApplicationInsights.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Microsoft.Owin.Security.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\bin\Newtonsoft.Json.xml
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\obj\Debug\SignalR4 (hitCounter).csprojResolveAssemblyReference.cache
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\obj\Debug\SignalR4 (hitCounter).dll
+c:\users\kaiza\onedrive\documents\visual studio 2015\Projects\SignalR4 (hitCounter)\SignalR4 (hitCounter)\obj\Debug\SignalR4 (hitCounter).pdb
